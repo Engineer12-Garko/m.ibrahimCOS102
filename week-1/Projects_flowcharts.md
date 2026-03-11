@@ -23,11 +23,9 @@
    ]
   },
   {
-   "cell_type": "code",
-   "execution_count": null,
-   "id": "8b2fcb99-dd5e-48d6-aa11-3dda901143ae",
+   "cell_type": "markdown",
+   "id": "1d506d9c-6358-4cb5-969a-deff0744fb3c",
    "metadata": {},
-   "outputs": [],
    "source": []
   }
  ],
